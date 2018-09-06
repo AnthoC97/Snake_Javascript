@@ -1,0 +1,1 @@
+# Snake for web browser
